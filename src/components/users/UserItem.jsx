@@ -18,7 +18,8 @@ function UserItem({user:{login,avatar_url}}) {
 
         </div>
       </div>
-      {login}</div>
+      {login}
+    </div>
   )
 }
 
